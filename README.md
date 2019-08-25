@@ -26,4 +26,8 @@ can either be uploaded from the gallery or taken through a in-app camera option.
 * [Expo for Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN)
 
 <p align ="center">
-  <img src = "
+  <img src = "https://user-images.githubusercontent.com/51262683/63653910-ddaf9300-c790-11e9-995d-19ae511c0571.PNG">
+  </p>
+  
+(The Expo client for iOS does not allow opening projects by others. Please leave a star if you liked the project or found the code helpful.
+I would really appreciate it!)
