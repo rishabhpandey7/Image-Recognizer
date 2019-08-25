@@ -18,6 +18,7 @@ can either be uploaded from the gallery or taken through an in-app camera option
 * [Firebase](https://firebase.google.com/)
 * [Google Cloud Vision](https://cloud.google.com/vision/docs/)
 * [Git](https://git-scm.com/downloads)
+* [Uuid](https://www.npmjs.com/package/uuid)
 
 # Link to the project on Expo
 * [Image-Recognizer on Expo](https://expo.io/@rishabhpandey7/ImageRecognizer)
