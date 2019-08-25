@@ -7,8 +7,8 @@ An app that recognizes or identifies objects in images with near perfect accurac
 can either be uploaded from the gallery or taken through a in-app camera option.
 
 <p float = "left">
-  <img width="210" height = "420" src = "https://user-images.githubusercontent.com/51262683/63653821-747b5000-c78f-11e9-8c78-efc84ea58a28.jpg">
-  <img width="210" height = "420" src = "">
-
+  <img width="230" height = "460" src = "https://user-images.githubusercontent.com/51262683/63653821-747b5000-c78f-11e9-8c78-efc84ea58a28.jpg">
+  <img width="230" height = "460" src = "https://user-images.githubusercontent.com/51262683/63653822-747b5000-c78f-11e9-8dd1-0f7666ed08b0.jpg">
+  <img width="230" height = "460" src = "
 
 
