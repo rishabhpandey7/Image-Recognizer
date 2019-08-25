@@ -7,8 +7,23 @@ An app that recognizes or identifies objects in images with near perfect accurac
 can either be uploaded from the gallery or taken through a in-app camera option.
 
 <p float = "left">
-  <img width="230" height = "460" src = "https://user-images.githubusercontent.com/51262683/63653821-747b5000-c78f-11e9-8c78-efc84ea58a28.jpg">
-  <img width="230" height = "460" src = "https://user-images.githubusercontent.com/51262683/63653822-747b5000-c78f-11e9-8dd1-0f7666ed08b0.jpg">
-  <img width="230" height = "460" src = "
+  <img width="250" height = "500" src = "https://user-images.githubusercontent.com/51262683/63653821-747b5000-c78f-11e9-8c78-efc84ea58a28.jpg">
+  <img width="250" height = "500" src = "https://user-images.githubusercontent.com/51262683/63653822-747b5000-c78f-11e9-8dd1-0f7666ed08b0.jpg">
+  <img width="250" height = "500" src = "https://user-images.githubusercontent.com/51262683/63653823-7513e680-c78f-11e9-8ef0-75fdc8011714.jpg">
+</p>
 
+# Resources Used
+* [Node.js](https://nodejs.org/en/)
+* [Expo](https://expo.io/)
+* [Firebase](https://firebase.google.com/)
+* [Google Cloud Vision](https://cloud.google.com/vision/docs/)
+* [Git](https://git-scm.com/downloads)
 
+# Link to the project on Expo
+* [Image-Recognizer on Expo](https://expo.io/@rishabhpandey7/ImageRecognizer)
+
+# Scan the QR code to open the app using the Expo client for Android
+* [Expo for Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN)
+
+<p align ="center">
+  <img src = "
