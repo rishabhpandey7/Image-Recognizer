@@ -4,12 +4,12 @@
 
 # <center> Image Recognizer </center>
 An app that recognizes or identifies objects in images with near perfect accuracy using Google Cloud Vision API and Google Firebase. Images
-can either be uploaded from the gallery or taken through a in-app camera option.
+can either be uploaded from the gallery or taken through an in-app camera option.
 
 <p float = "left">
-  <img width="250" height = "500" src = "https://user-images.githubusercontent.com/51262683/63653821-747b5000-c78f-11e9-8c78-efc84ea58a28.jpg">
-  <img width="250" height = "500" src = "https://user-images.githubusercontent.com/51262683/63653822-747b5000-c78f-11e9-8dd1-0f7666ed08b0.jpg">
-  <img width="250" height = "500" src = "https://user-images.githubusercontent.com/51262683/63653823-7513e680-c78f-11e9-8ef0-75fdc8011714.jpg">
+  <img width="275" height = "550" src = "https://user-images.githubusercontent.com/51262683/63653821-747b5000-c78f-11e9-8c78-efc84ea58a28.jpg">
+  <img width="275" height = "550" src = "https://user-images.githubusercontent.com/51262683/63653822-747b5000-c78f-11e9-8dd1-0f7666ed08b0.jpg">
+  <img width="275" height = "550" src = "https://user-images.githubusercontent.com/51262683/63653823-7513e680-c78f-11e9-8ef0-75fdc8011714.jpg">
 </p>
 
 # Resources Used
